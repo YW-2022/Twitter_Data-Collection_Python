@@ -13,6 +13,7 @@ Three packages are required:
   <li>csv</li>
   <li>json</li>
 </ul>
+**pytwitter**: A simple Python wrapper for Twitter API v2
 python-twitter-v2 0.7.8 can be downloaded here:
 https://pypi.org/project/python-twitter-v2/
 </br>
