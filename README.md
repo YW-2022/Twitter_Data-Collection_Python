@@ -42,8 +42,8 @@ Two packages are required:
   <li>Matplotlib</li>
   <li>Word-cloud</li>
 </ul>
-Word-cloud(also known as tag-cloud or wordle or weighted list in visual design)
+Word-cloud(also known as tag-cloud or wordle or weighted list in visual design). wordcloud 1.8.2.2 can be downloaded here:
+https://pypi.org/project/wordcloud/
 </br>
-[wordcloud](https://pypi.org/project/wordcloud/) is a little word cloud generator in Python.
-
-
+</br>
+On the command line: <code>pip install wordcloud</code>
