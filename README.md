@@ -13,13 +13,37 @@ Three packages are required:
   <li>csv</li>
   <li>json</li>
 </ul>
-pytwitter: A simple Python wrapper for Twitter API v2
 python-twitter-v2 0.7.8 can be downloaded here:
 https://pypi.org/project/python-twitter-v2/
 </br>
 </br>
-<code>pip install python-twitter-v2</code>
+On the command line: <code>pip install python-twitter-v2</code>
+</br>
+
+### Text Preprocessing
+
+<ul>
+  <li>Data anonymization.</li>
+  <li>Use preprocessor to remove hyperlink, @mention, emoji.</li>
+  <li>Remove punctuation, special symbol, common stop-word.</li>
+</ul>
+tweet-preprocessor 0.6.0 can be downloaded here:
+https://pypi.org/project/tweet-preprocessor/
 </br>
 </br>
+On the command line: <code>pip install tweet-preprocessor</code>
+</br>
+
+### Data Analysis
+Statistical analysis of the acquired data using pytho pandas and numpy libraries.
+
+Two packages are required:
+<ul>
+  <li>Matplotlib</li>
+  <li>Word-cloud</li>
+</ul>
+Word-cloud(also known as tag-cloud or wordle or weighted list in visual design)
+</br>
+[wordcloud](https://pypi.org/project/wordcloud/) is a little word cloud generator in Python.
 
 
