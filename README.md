@@ -16,3 +16,8 @@ Three packages are required:
 python-twitter-v2 0.7.8 can be downloaded here:
 https://pypi.org/project/python-twitter-v2/
 </br>
+</br>
+<code>pip install python-twitter-v2</code>
+</br>
+</br>
+
