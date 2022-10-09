@@ -35,7 +35,7 @@ On the command line: <code>pip install tweet-preprocessor</code>
 </br>
 
 ### Data Analysis
-Statistical analysis of the acquired data using pytho pandas and numpy libraries.
+Statistical analysis of the acquired data using python pandas and numpy libraries.
 
 Two packages are required:
 <ul>
