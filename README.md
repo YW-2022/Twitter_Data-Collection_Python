@@ -1,7 +1,7 @@
 # Twitter_Data-Collection_Python
 
 ### Twitter API Authentication
-Apply for Twitter academic research access ---> https://developer.twitter.com/en/products/twitter-api/academic-research</br>
+Apply for Twitter academic research access ---> https://developer.twitter.com/en/use-cases/do-research/academic-research</br>
 Generate authentication tokens, including bear token and access token & secret. </br>
 
 ### Retrieve Data
